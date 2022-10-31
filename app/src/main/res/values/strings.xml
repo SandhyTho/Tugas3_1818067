@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas3_1818067</string>
+    <string name="deskription_kost">Koat Mawar, di jln blimbing no.20, Kota Malang</string>
+    <string name="ingredients">informasi</string>
+    <string name="Fasilitas">fasilitas lengkap, dengan harga tejangkau</string>
+    <string name="Harga_Kost">450 / bulan</string>
+    <string name="Contac">085221303237</string>
+    <string name="deskription_Kost">Alamat : Jln blimbing, Kota Malang</string>
+    <string name="Informasi">"Meyediakan Fasilitas yang Lengkap, Dngan harga Terjangkau "</string>
+    <string name="Failitas">Meyediakan fasilitas yang baik, dengan harga yang terjangkau</string>
+</resources>
